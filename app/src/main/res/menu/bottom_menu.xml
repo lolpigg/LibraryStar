@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/first_item"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Домой"
+        android:iconTint="@color/black"/>
+    <item
+        android:id="@+id/second_item"
+        android:icon="@drawable/baseline_library_books_24"
+        android:title="Жанры"
+        android:iconTint="@color/black"/>
+    <item
+        android:id="@+id/third_item"
+        android:icon="@drawable/baseline_menu_book_24"
+        android:title="Авторы"
+        android:iconTint="@color/black" />
+    <item
+        android:id="@+id/fourth_item"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Профиль"
+        android:iconTint="@color/black"/>
+</menu>
